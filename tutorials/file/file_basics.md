@@ -38,11 +38,11 @@ This will close the instance of the file ***banuprakash.txt*** stored
 
 Once the below code is executed, ***banuprakash.txt*** file has been created:
 
-![](images/file/file1.png)
+!["file1"](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/file/file1.png)
 
 When you click on your text file in our case ***"banuprakash.txt"*** it will look something like this
 
-![](images/file/file2.png)
+![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/file/file2.png)
 
 -------------------------------------------------------------------------------
 # How to Append data to a file :
@@ -63,11 +63,11 @@ for i in range(2):
 
 This will write data into the file in append mode :
 
-![](images/file/file3.png)
+![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/file/file3.png)
 
 You can see the output in ***"banuprakash.txt"*** file. The output of the code is that earlier file is appended with new data.
 
-![](images/file/file4.png)
+![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/file/file4.png)
 
 -------------------------------------------------------------------------------
 # How to read a file :
@@ -93,11 +93,11 @@ print(contents)
 ```
 Code for read a file :
 
-![](images/file/file5.png)
+![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/file/file5.png)
 
 Output:
 
-![](images/file/file6.png) 
+![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/file/file6.png) 
 
 -------------------------------------------------------------------------------
 
