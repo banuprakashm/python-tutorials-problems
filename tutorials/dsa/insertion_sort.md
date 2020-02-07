@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/sorting/insertion.png)
 
-**Implementation of inseertion sort:**
+**Implementation of insertion sort:**
 ```
 def insertionSort(nlist):
    for index in range(1,len(nlist)):
