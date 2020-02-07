@@ -1,5 +1,9 @@
 # Insertion Sort
 
+**Example :**
+
+![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/sorting/insertion.png)
+
 **Implementation of inseertion sort:**
 ```
 def insertionSort(nlist):
