@@ -2,6 +2,9 @@
 
 **Example of merge sort:**
 
+
+![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/sorting/merge.png)
+
 **Implementation of Merge Sort:**
 
 ```
