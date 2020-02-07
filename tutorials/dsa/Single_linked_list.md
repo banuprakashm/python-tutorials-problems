@@ -4,7 +4,7 @@ It is the most common. Each node has data and a pointer to the next node.
 
 ![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/linkedlist/li1.png)
 
-** Implementation of Single Linked List : **
+**Implementation of Single Linked List : **
 
 ```
 # A simple Python program to introduce a linked list 
