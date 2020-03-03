@@ -32,6 +32,5 @@
 ### Write a program to remove all occurrence of a word in given string.
 ### Write a program to trim leading white space characters from given string.
 ### Write a program to trim trailing white space characters from given string.
-### Write a program to trim both leading and trailing white space characters from given
-string.
+### Write a program to trim both leading and trailing white space characters from given string.
 ### Write a program to remove all extra blank spaces from given string.
