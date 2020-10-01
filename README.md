@@ -1,1 +1,1 @@
-# python-tutorials-problems
+# Basic python problems/projects for python beginners
