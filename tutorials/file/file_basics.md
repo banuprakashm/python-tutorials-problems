@@ -47,7 +47,7 @@ When you click on your text file in our case ***"banuprakash.txt"*** it will loo
 -------------------------------------------------------------------------------
 # How to Append data to a file :
 
-You can also append a new text to the already existing file or the new file.
+You can also append a new text to the already existing file or the new file. Append simply adds the new text to the next line it does not overwrite a file.
 
 ## Step-1 :
 ```
@@ -61,7 +61,7 @@ for i in range(2):
 	f.write("Appended line %d\r\n" % (i+1))
 ```
 
-This will write data into the file in append mode :
+This will write data into the file in append mode,  :
 
 ![](https://raw.githubusercontent.com/banuprakashm/python-tutorials-problems/master/images/file/file3.png)
 
